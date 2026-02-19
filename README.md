@@ -1,24 +1,81 @@
-<h1 align="center">Hi 👋, I'm MD. Hafizur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh who is looking for a internship</h3>
-
-- 🌱 I’m currently learning **Typescript,**
-
-- 👨‍💻 All of my projects are available at [https://hafizur-frontend-web-developer.vercel.app/](https://hafizur-frontend-web-developer.vercel.app/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, sass, tailwindcss,**
-
-- 📫 How to reach me **tonmoy.a009@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md hafizur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md hafizur rahman" height="30" width="40" /></a>
-<a href="https://fb.com/hafizur.s007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafizur.s007" height="30" width="40" /></a>
-<a href="https://instagram.com/hafizur.s007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafizur.s007/" height="30" width="40" /></a>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=28&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD.+Hafizur+Rahman;Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind;Open+to+Frontend+Internship" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-![Tonmoy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tonmoystark&show_icons=true&theme=tokyonight)
+<!-- ================= ABOUT ================= -->
+<h2 align="center">👨‍💻 About Me</h2>
 
+<p align="center">
+💡 Focused on building clean, scalable and responsive user interfaces<br/>
+🚀 Passionate about modern frontend technologies<br/>
+🌱 Currently learning Advanced TypeScript & performance optimization<br/>
+💼 Portfolio: <a href="https://hafizur-frontend-web-developer.vercel.app/">Visit Here</a><br/>
+📫 Email: tonmoy.a009@gmail.com
+</p>
 
+---
+
+<!-- ================= SOCIAL ================= -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href=(https://www.linkedin.com/in/md-hafizur-rahman-69b723258/)>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tonmoy.a009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/hafizur.s007">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+<h2 align="center">⚡ Tech Stack</h2>
+
+<h3 align="center">💻 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass" />
+</p>
+
+<h3 align="center">🛠 Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+</p>
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tonmoystark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tonmoystark&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoystark&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/tonmoystark/YOUR_BEST_PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonmoystark&repo=https://hafizur-frontend-web-developer.vercel.app/&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonmoystark&color=blueviolet&style=flat-square" />
+</p>
