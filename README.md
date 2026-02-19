@@ -65,13 +65,6 @@
 ---
 
 <!-- ================= FEATURED PROJECTS ================= -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/tonmoystark/YOUR_BEST_PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonmoystark&repo=https://hafizur-frontend-web-developer.vercel.app/&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
