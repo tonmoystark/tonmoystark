@@ -22,7 +22,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href=(www.linkedin.com/in/hafizurdev)>
+  <a href="https://www.linkedin.com/in/hafizurdev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tonmoy.a009@gmail.com">
