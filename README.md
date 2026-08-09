@@ -88,11 +88,11 @@
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=tonmoystark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+    src="https://github-stats-extended.vercel.app/api?username=tonmoystark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
   />
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoystark&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonmoystark&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
   />
 </p>
 
@@ -103,6 +103,3 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tonmoystark&color=blueviolet&style=flat-square" />
-</p>
