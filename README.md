@@ -102,4 +102,7 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoystark&theme=tokyonight&hide_border=true&background=00000000"
   />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonmoystark&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+</p>
 
